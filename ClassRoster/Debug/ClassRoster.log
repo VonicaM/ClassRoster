@@ -1,0 +1,5 @@
+﻿  roster.cpp
+C:\Users\Michael Vonica\Desktop\ClassRoster\ClassRoster\roster.cpp(70,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael Vonica\Desktop\ClassRoster\ClassRoster\roster.cpp(70,80): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael Vonica\Desktop\ClassRoster\ClassRoster\roster.cpp(70,120): warning C4018: '<': signed/unsigned mismatch
+  ClassRoster.vcxproj -> C:\Users\Michael Vonica\Desktop\ClassRoster\Debug\ClassRoster.exe
